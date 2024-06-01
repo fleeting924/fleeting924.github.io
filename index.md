@@ -1,21 +1,15 @@
 ---
 layout: about
 permalink: /
-profile:
-  align: right
-  image: profile.png
 published: true
+
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+A motivated and curious computer science student who has a passion for technology and innovation. Eager to apply theoretical knowledge gained from coursework to real-world projects and contribute innovative solutions.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+## Background
 
-PS: If you liked the theme, do star it on GitHub!
+I'm a 3rd year computer science student from De La Salle University - Dasmarinas. In my 3 years of studies, I have developed familiarity in computer science fundamentals, including programming languages such as Java, JavaScript and Python. During this period, I also have gained some experience in database management, algorithm design, and software development methodologies. Furthermore, I have completed courseworks from MOOCs to build on my knowledge.
 
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+Outside of that, I'm probably playing video games(DOTA, CS2, OW2, etc.), drawing, or learning new stuffs.

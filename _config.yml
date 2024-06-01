@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Xavier V. Santos
+description: Student | DLSU-D
 
 baseurl: #name of GitHub repository
 url: "https://fleeting924.github.io" #custom url to be used instead of GitHub repository
-email: #
+email: "xavier.v.santos06@gmail.com"
 
 # Pagination
 paginate: 4
@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+# twitter: "#"
+linkedin: "xvs"
+# stackoverflow: "#"
+github: "fleeting924"
+# researchgate: "#"
+# orcid: "#"
+# quora: "#"
+# instagram: "#"
+# facebook: "#"
 
 
 # Markdown
@@ -48,12 +48,9 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - project1.md
+      - project2.md
+      - project3.md
 
 sass:
   sass_dir: /assets/css/_sass
