@@ -4,7 +4,7 @@ title: Your Name
 description: subtitle | affiliations | motto
 
 baseurl: #name of GitHub repository
-url: "fleeting924.github.io" #custom url to be used instead of GitHub repository
+url: "https://fleeting924.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
